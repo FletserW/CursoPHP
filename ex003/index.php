@@ -4,16 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../style.css">
-    <title>PHP</title>
+    <title>Tipos Primitivos PHP</title>
 </head>
 <body>
-    <main>
-        <h1>Exemplo de PHP</h1>
+    <header>
+        <h1>Exercicio 003</h1>
+    </header>
+    <section>
+        <h2>Teste de tipos primitivos</h2>
         <?php
-            date_default_timezone_set("America/Sao_Paulo");
-            print "Hoje é dia " . date("d/M/Y");
-            print " e a hora  atual é " . date("G:i:s T");
+            $num = 0b1011;
+            print "O valor da variável é $num";
         ?>
-    </main>
+    </section>
 </body>
 </html>
