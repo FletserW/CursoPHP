@@ -19,6 +19,7 @@
             <li><a href="ex002/index.php">Exercicio 002</a></li>
             <li><a href="ex003/index.php">Exercicio 003</a></li>
             <li><a href="ex004/index.html">Exercicio 004</a></li>
+            <li><a href="ex005/index.php">Exercicio 005</a></li>
         </ul>
     </main>
 </body>
